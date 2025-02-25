@@ -22,7 +22,6 @@ namespace api_filmes_senai.Context
                 optionsBuilder.UseSqlServer("Server = NOTE33-S28\\SQLEXPRESS; Database = filmes; User id = sa; Pwd = Senai@134; trustServerCertificate=true;");
 
             }
-            
         }
 
     }
